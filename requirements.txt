@@ -1,0 +1,9 @@
+# ADK 1.x para manter compatibilidade com Python 3.10 do desafio.
+google-adk==1.18.0
+py-trello==0.20.1
+python-dotenv>=1.0,<2
+tzdata>=2025.2
+# Interface própria (também são dependências do ADK).
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+requests>=2.31,<3
